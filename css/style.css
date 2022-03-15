@@ -1,0 +1,21 @@
+div {
+    background-color: #0a636963;
+}
+#container{ 
+    display: grid;
+    justify-content: center;
+}
+#faixa ul {
+	display: flex;
+    justify-content: space-between;
+}
+
+.faixa ul li {
+	list-style-type: none;
+    padding-right: 140px;
+}
+
+   #cat {
+    height: 200px;
+    width: 300px;
+   }
